@@ -4,6 +4,7 @@
 
     <uses-permission android:name="android.permission.INTERNET" />
     <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION"/>
 
     <application
         android:allowBackup="true"
@@ -21,7 +22,9 @@
         </activity>
         <activity android:name=".SignIn" />
         <activity android:name=".NewPost" />
-        <activity android:name=".ViewAllPost"></activity>
+        <activity android:name=".ViewAllPost" />
+        <activity android:name=".ViewActivity" />
+        <activity android:name=".ViewLocation"></activity>
     </application>
 
 </manifest>

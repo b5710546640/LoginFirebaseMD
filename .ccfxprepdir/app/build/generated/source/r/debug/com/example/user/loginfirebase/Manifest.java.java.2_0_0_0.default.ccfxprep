@@ -1,0 +1,13 @@
+a.e.f5	+0	(def_block
+a.e.f5	+5	r_class
+a.14.fb	+8	id|Manifest
+a.1d.104	+1	(brace
+b.19.11f	+0	(def_block
+b.19.11f	+5	r_class
+b.1f.125	+a	id|permission
+b.2a.130	+1	(brace
+d.5.1a0	+1	)brace
+d.6.1a1	+0	)def_block
+e.1.1a3	+1	)brace
+e.2.1a4	+0	)def_block
+f.1.1a6	+0	eof

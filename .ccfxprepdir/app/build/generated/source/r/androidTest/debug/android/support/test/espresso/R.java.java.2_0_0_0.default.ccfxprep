@@ -1,0 +1,13 @@
+9.e.f5	+0	(def_block
+9.e.f5	+5	r_class
+9.14.fb	+1	id|R
+9.16.fd	+1	(brace
+a.19.118	+0	(def_block
+a.19.118	+5	r_class
+a.1f.11e	+6	id|string
+a.26.125	+1	(brace
+c.5.164	+1	)brace
+c.6.165	+0	)def_block
+d.1.167	+1	)brace
+d.2.168	+0	)def_block
+e.1.16a	+0	eof

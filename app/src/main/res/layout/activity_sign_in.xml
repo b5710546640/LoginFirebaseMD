@@ -43,11 +43,20 @@
 
         <Button
             android:layout_marginTop="20dp"
+            android:id="@+id/locationServiceBtn"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Location Service"
+            android:layout_below="@+id/postlayer"
+            android:layout_centerHorizontal="true" />
+
+        <Button
+            android:layout_marginTop="20dp"
             android:id="@+id/signoutBtn"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:text="Sign out"
-            android:layout_below="@+id/postlayer"
+            android:layout_below="@+id/locationServiceBtn"
             android:layout_centerHorizontal="true" />
     </RelativeLayout>
 
